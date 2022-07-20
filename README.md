@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 - 🔭 Buscando trabalho no mundo de Full Stack
