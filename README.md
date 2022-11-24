@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/alerandro-lourenço-004962218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-TECNOLOGIAS QUE TENHO EXPERIÊNCIA E PRÁTICAS
+TECNOLOGIAS QUE TENHO EXPERIÊNCIA E PRÁTICAS 🧑‍🎓
 <div style = "display: inline_block"><br/>
 <img align = "center" alt ="html5" src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html&logoColor=white"/>
 <img align = "center" alt ="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
