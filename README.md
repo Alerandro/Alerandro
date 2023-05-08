@@ -13,12 +13,16 @@
 
 ### TECNOLOGIAS QUE TENHO EXPERIÊNCIA🧑‍🎓
 <div style = "display: inline_block"><br/>
-<img align = "center" alt ="html5" src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html&logoColor=white"/>
-<img align = "center" alt ="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align = "center" alt ="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align = "center" alt ="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align = "center" alt ="React" src="https://img.shields.io/badge/react%20js-0088CC?style=for-the-badge&logo=reactjs&logoColor=white"/>
-<img align = "center" alt ="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img align = "center" alt ="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align = "center" alt ="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align = "center" alt ="CCS3" height= "60" width="60 " src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg/"/>
+<img align = "center" alt ="html5" height= "60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
+<img align = "center" alt ="Node" height= "60" width="60 " src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align = "center" alt ="Python"  height= "60" width="60 " src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
+<img align = "center" alt ="React" height= "60" width="60 " src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+<img align = "center" alt ="PostgreSQL" height= "60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
+<img align = "center" alt ="Mongo" height= "60" width="60 " src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img align = "center" alt ="Java" height= "60" width="60 "src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
+<img align = "center" alt ="Docker" height= "60" width="60"src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          
+          
+  
   </div>
